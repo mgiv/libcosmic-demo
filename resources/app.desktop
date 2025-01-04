@@ -1,0 +1,11 @@
+[Desktop Entry]
+Name=Libcosmic Demo
+Comment=An application for the COSMIC™ desktop
+Type=Application
+Icon=org.mgiv.libcosmicDemo
+Exec=libcosmic-demo %F
+Terminal=false
+StartupNotify=true
+Categories=COSMIC
+Keywords=COSMIC
+MimeType=
